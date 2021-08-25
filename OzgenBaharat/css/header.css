@@ -1,0 +1,57 @@
+/* Search Bar Position */
+
+.d-flex {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+    display: block;
+    margin: auto !important;
+}
+
+.form-control {
+    width: auto !important;
+}
+
+.btn-outline-success {
+    color: black !important;
+}
+
+
+/* Slider */
+
+.slider {
+    height: 350px;
+}
+
+.carousel-slide {
+    width: 100% !important;
+    height: 350px !important;
+}
+
+.carousel-item {
+    height: 350px !important;
+}
+
+.carousel-inner {
+    height: 350px !important;
+}
+
+
+/* Sign Up & Sign In Buttons */
+
+.btn-primary {
+    background-color: transparent !important;
+    color: black !important;
+    border-color: grey !important;
+}
+
+
+/* Nav-Bar Heading */
+
+.navbar-brand {
+    font-size: 50px !important;
+}
+
+.nav-link {
+    font-size: 25px !important;
+}
